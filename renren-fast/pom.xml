@@ -24,7 +24,7 @@
 		<mssql.version>4.0</mssql.version>
 		<oracle.version>11.2.0.3</oracle.version>
 		<druid.version>1.1.10</druid.version>
-		<quartz.version>2.3.0</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<!--<quartz.version>1.8.6</quartz.version>-->
 		<!--<quartz.version>2.2.1</quartz.version>-->
 		<commons.lang.version>2.6</commons.lang.version>
